@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core dark palette -->
+    <color name="bg_primary">#0F0F0F</color>
+    <color name="bg_surface">#1A1A1A</color>
+    <color name="bg_surface_alt">#272727</color>
+    <color name="accent">#FF0000</color>
+    <color name="accent_dark">#CC0000</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="text_tertiary">#666666</color>
+
+    <!-- Divider -->
+    <color name="divider">#2A2A2A</color>
+
+    <!-- Bottom nav -->
+    <color name="nav_active">#FFFFFF</color>
+    <color name="nav_inactive">#888888</color>
+
+    <!-- Material theme aliases -->
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryVariant">#CC0000</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#1A1A1A</color>
+    <color name="colorSecondaryVariant">#272727</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorBackground">#0F0F0F</color>
+    <color name="colorOnBackground">#FFFFFF</color>
+    <color name="colorSurface">#1A1A1A</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+    <color name="colorError">#CF6679</color>
+    <color name="colorOnError">#000000</color>
+</resources>

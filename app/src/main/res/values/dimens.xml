@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_corner_radius">6dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="bottom_nav_height">60dp</dimen>
+    <dimen name="thumbnail_height_horizontal">92dp</dimen>
+    <dimen name="thumbnail_width_horizontal">140dp</dimen>
+</resources>
